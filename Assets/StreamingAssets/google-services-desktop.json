@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "175441213470",
+    "project_id": "pubgolfscorecard",
+    "storage_bucket": "pubgolfscorecard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175441213470:ios:abe0d5dce5dde139c7960f",
+        "android_client_info": {
+          "package_name": "net.lethallizardstudios.pubgolf"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOEKj6CZawIia4FGSw0oSWNn4TX5XDYaE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175441213470-u1cg1b68psv576o1sjkro5gmuk96881t.apps.googleusercontent.com"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
